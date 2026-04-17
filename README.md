@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ajit Shinde
 
-**Technical Lead | Elastic Stack Developer | Observability Specialist**
+**Elastic Stack Developer | Observability Specialist | BI Trainer | Cloud & DevOps Enthusiast**
 
 ---
 
@@ -8,6 +8,7 @@
 
 I am a Technical Lead with over **14 years of IT experience**, specializing in **Elastic Stack and Observability** for the past 6+ years.
 I focus on building scalable logging, monitoring, and troubleshooting solutions for enterprise systems.
+Alongside my core expertise, I am also a passionate **Tableau and Power BI trainer**, having trained **500+ professionals**.
 
 * 🔭 Currently working as a Technical Lead (Elastic Stack)
 * 📊 Expert in designing **logging & monitoring architectures**
@@ -25,6 +26,11 @@ I focus on building scalable logging, monitoring, and troubleshooting solutions 
 * Logstash
 * Kibana
 * Beats / Elastic Agent
+
+### 📊 Data Visualization & BI
+
+* Tableau
+* Power BI
 
 ### 💻 Other Skills
 
